@@ -39,4 +39,5 @@ video{
 .player_two audio{
 	width:100%;
 	color:transparent
+	background-color: rgb(255, 255, 255);
 }
